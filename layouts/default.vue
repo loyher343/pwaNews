@@ -1,6 +1,6 @@
 <template>
     <div>
-        <section class="hero has-text-centered is-primary">
+        <section class="hero has-text-centered is-secondary">
             <div class="hero-body">
                 <div class="container">
                     <h1 class="title">PWA News</h1>
